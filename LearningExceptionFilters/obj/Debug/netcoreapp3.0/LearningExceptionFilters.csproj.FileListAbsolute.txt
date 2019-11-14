@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\LearningExceptionFilters\LearningExceptionFilters\bin\Debug\netcoreapp3.0\LearningExceptionFilters.exe
+C:\Users\Jason\source\repos\LearningExceptionFilters\LearningExceptionFilters\bin\Debug\netcoreapp3.0\LearningExceptionFilters.deps.json
+C:\Users\Jason\source\repos\LearningExceptionFilters\LearningExceptionFilters\bin\Debug\netcoreapp3.0\LearningExceptionFilters.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningExceptionFilters\LearningExceptionFilters\bin\Debug\netcoreapp3.0\LearningExceptionFilters.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningExceptionFilters\LearningExceptionFilters\bin\Debug\netcoreapp3.0\LearningExceptionFilters.dll
+C:\Users\Jason\source\repos\LearningExceptionFilters\LearningExceptionFilters\bin\Debug\netcoreapp3.0\LearningExceptionFilters.pdb
+C:\Users\Jason\source\repos\LearningExceptionFilters\LearningExceptionFilters\obj\Debug\netcoreapp3.0\LearningExceptionFilters.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\LearningExceptionFilters\LearningExceptionFilters\obj\Debug\netcoreapp3.0\LearningExceptionFilters.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningExceptionFilters\LearningExceptionFilters\obj\Debug\netcoreapp3.0\LearningExceptionFilters.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningExceptionFilters\LearningExceptionFilters\obj\Debug\netcoreapp3.0\LearningExceptionFilters.dll
+C:\Users\Jason\source\repos\LearningExceptionFilters\LearningExceptionFilters\obj\Debug\netcoreapp3.0\LearningExceptionFilters.pdb
